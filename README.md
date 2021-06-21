@@ -5,9 +5,13 @@
 A new Flutter project.
 # How It Will look 👇
 <table>
-    <tr><td>
-      <img width="250" alt="underweight" src="https://user-images.githubusercontent.com/55774240/122741522-aafa5700-d2a2-11eb-94ac-83350f8860c8.jpg" /></td>
-<td><img width="250" alt="normal" src="https://user-images.githubusercontent.com/55774240/122741486-a03fc200-d2a2-11eb-855f-2b955cbd6c71.jpg" />
+  <tr>
+      <td>
+          <img width="250" alt="underweight" src="https://user-images.githubusercontent.com/55774240/122744527-af743f00-d2a5-11eb-84e7-b822a0d49278.jpg" /></td>
+        <td>  <img width="250" alt="underweight" src="https://user-images.githubusercontent.com/55774240/122741522-aafa5700-d2a2-11eb-94ac-83350f8860c8.jpg" />
+      </td>
+    </tr>
+<tr><td><img width="250" alt="normal" src="https://user-images.githubusercontent.com/55774240/122741486-a03fc200-d2a2-11eb-855f-2b955cbd6c71.jpg" />
 </td>
 <td><img width="250" alt="overweight" src="https://user-images.githubusercontent.com/55774240/122741533-ad5cb100-d2a2-11eb-90ea-02a3577f9829.jpg" /></td></tr></table>
 
